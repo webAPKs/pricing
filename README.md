@@ -1,0 +1,2 @@
+# pricing
+pricing.webapks.com
